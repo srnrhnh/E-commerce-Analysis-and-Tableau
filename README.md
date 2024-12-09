@@ -48,4 +48,4 @@ This project focuses on analyzing e-commerce sales data to enhance customer sati
 
 ---
 
-Feel free to open an issue or submit a pull request if you have suggestions for improvements!
+💡Feel free to open an issue or submit a pull request if you have suggestions for improvements!
