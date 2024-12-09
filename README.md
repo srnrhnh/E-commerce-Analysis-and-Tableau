@@ -1,4 +1,6 @@
-# E-commerce Analysis
+<div align='center'>
+    <h1><b>E-Commerce Analysis</b></h1>
+</div>
 This project focuses on analyzing e-commerce sales data to enhance customer satisfaction and boost revenue. The process begins with thorough data cleaning to ensure accuracy and consistency, followed by an initial analysis to uncover patterns and insights. I also created visualizations to better understand the data, which were further enhanced in Tableau to provide more interactive and insightful business decision-making. The goal of this project is to provide actionable insights that can help optimize sales and improve the overall customer experience.
 
 ## Data Sources 📊
