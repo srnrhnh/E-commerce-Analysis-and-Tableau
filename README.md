@@ -39,7 +39,7 @@ This project focuses on analyzing e-commerce sales data to enhance customer sati
     </tr>
     <tr>
         <td style="padding: 10px;">
-            <a href="https://public.tableau.com/views/Milestone1_17273680847700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+            <a href="https://public.tableau.com/app/profile/serina.roihaanah/viz/E-CommerceAnalysisVisualization/Dashboard1?publish=yes">
                 <img src="https://img.shields.io/badge/View-Tableau-blue" alt="Tableau Visualization">
             </a>
         </td>
